@@ -3,3 +3,8 @@ C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_n
 C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.View.Main.resources
 C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.csproj.GenerateResource.cache
 C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\bin\Debug\Bloco_de_notas.exe.config
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\bin\Debug\Bloco_de_notas.exe
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\bin\Debug\Bloco_de_notas.pdb
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.exe
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.pdb

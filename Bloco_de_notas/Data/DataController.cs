@@ -24,5 +24,14 @@ namespace Bloco_de_notas.Data
 
             return File.ReadAllText(path);
         }
+
+        internal static string ExtractName(string path)
+        {
+            var parts = path.Split('\\');
+            var nameArq = parts[parts.Length - 1].Split('.');
+
+            return nameArq[0];
+            
+        }
     }
 }
