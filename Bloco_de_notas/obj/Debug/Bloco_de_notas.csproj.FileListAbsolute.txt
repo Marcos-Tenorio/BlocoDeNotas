@@ -1,0 +1,5 @@
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.View.Main.resources
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\Bloco_de_notas\Bloco_de_notas\obj\Debug\Bloco_de_notas.csproj.CoreCompileInputs.cache
